@@ -1,0 +1,8 @@
+name: Blues_Citybuild_Plugin
+version: '0.1-ALPHA'
+main: de.blue_gamer48.bluesCitybuildPlugin.BluesCitybuildPlugin
+api-version: '1.21'
+load: STARTUP
+authors: [ BLue_Gamer48 ]
+description: A Minecraft plugin for Citybuild servers with extras for PlotSquared
+website: https://blue-gamer48.de
