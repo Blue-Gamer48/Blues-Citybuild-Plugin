@@ -10,6 +10,7 @@ class BluesCitybuildPlugin : JavaPlugin() {
         ####################################
         Plugin Blues Citybuild Core Starting
         Developer: Blue_Gamer48
+        Plugin Version 0.1-Alpha
         ####################################
         """.trimIndent())
 
